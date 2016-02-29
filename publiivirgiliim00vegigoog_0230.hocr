@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiivirgiliim00vegigoog_0230.png"; bbox 0 0 2700 3925; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 248 1342 1042 1468">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 248 1342 1042 1525">
+     <span class='ocr_line' id='line_1_1' title="bbox 248 1342 1042 1468; baseline 0.011 -10"><span class='ocrx_word' id='word_1_1' title='bbox 248 1342 574 1465; x_wconf 79' lang='lat' dir='ltr'>PUssLn</span> <span class='ocrx_word' id='word_1_2' title='bbox 620 1347 1042 1468; x_wconf 76' lang='lat' dir='ltr'>v1RG1L11</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 237 1617 1004 1988">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 237 1617 1004 1988">
+     <span class='ocr_line' id='line_1_2' title="bbox 380 1617 907 1736; baseline 0 -3"><span class='ocrx_word' id='word_1_3' title='bbox 380 1618 457 1733; x_wconf 91' lang='lat' dir='ltr'><strong><em>M</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 470 1617 531 1734; x_wconf 87' lang='grc' dir='ltr'><em>Α</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 555 1617 615 1736; x_wconf 83' lang='lat' dir='ltr'><em>R</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 642 1617 695 1734; x_wconf 93' lang='lat'><em>0</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 722 1621 792 1734; x_wconf 91' lang='lat' dir='ltr'><em>N</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 810 1620 847 1734; x_wconf 87' lang='lat' dir='ltr'><em>I</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 865 1617 907 1733; x_wconf 84' lang='lat' dir='ltr'><em>S</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 237 1784 1004 1988; baseline -0.001 -21"><span class='ocrx_word' id='word_1_10' title='bbox 237 1849 240 1855; x_wconf 81' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 276 1784 1004 1988; x_wconf 65' lang='lat' dir='ltr'>POEMATAJUVEN1L1A5</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 235 2101 1052 2196">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 235 2101 1052 2196">
+     <span class='ocr_line' id='line_1_4' title="bbox 235 2101 1052 2196; baseline -0.005 -16"><span class='ocrx_word' id='word_1_12' title='bbox 235 2101 324 2194; x_wconf 62' lang='lat' dir='ltr'><strong>„Quae</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 352 2110 493 2178; x_wconf 72' lang='lat' dir='ltr'>mendosa</span> <span class='ocrx_word' id='word_1_14' title='bbox 514 2109 676 2180; x_wconf 73' lang='lat' dir='ltr'>admodum</span> <span class='ocrx_word' id='word_1_15' title='bbox 699 2110 738 2178; x_wconf 79' lang='lat' dir='ltr'>ad</span> <span class='ocrx_word' id='word_1_16' title='bbox 759 2132 815 2179; x_wconf 82' lang='lat' dir='ltr'>nos</span> <span class='ocrx_word' id='word_1_17' title='bbox 837 2121 1052 2196; x_wconf 64' lang='lat' dir='ltr'>pervenerunto</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1354 3925">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1354 3925">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1354 3925; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1354 3925; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
